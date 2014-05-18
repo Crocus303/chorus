@@ -1,5 +1,5 @@
 # Chorus
-A nice modern Web UI for your XBMC. Browse your Music, Movies or TV Shows from the comfort of your
+A very nice modern Web UI for your XBMC. Browse your Music, Movies or TV Shows from the comfort of your
 own web browser. You can play media via XBMC or stream it in your browser. Works best with Chrome
 but plays well with most modern browsers.
 
